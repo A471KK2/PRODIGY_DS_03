@@ -7,7 +7,7 @@ In this project, I completed Task 3 of my internship at Prodigy Infotech, which 
 
 ### Dataset
 - **Dataset Name:** Time_Series_Mortgage_Denials_By_Race
-- **Source:** Provided internally within Prodigy Infotech
+- **Source:** Search by me on Mortages. 
 - **Description:** This dataset contains information about mortgage denials, including demographic attributes such as race and geographical information.
 
 ### Data Preprocessing and Analysis
